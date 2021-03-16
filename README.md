@@ -1,2 +1,2 @@
 # ANLY535
-### Machine Learning2
+### Machine Learning 2
